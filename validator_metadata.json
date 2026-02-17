@@ -1,10 +1,13 @@
 {
-  "name": "datavex-validator-pl-01",
-  "company_name": "Datavex",
-  "website": "https://datavex.pl",
-  "logo": "https://datavex.eu/static/assets/media/logos/dark-logo.png",
-  "description": "Datavex validator node on Espresso Decaf testnet",
-  "contact": "ops@datavex.pl",
-  "country_code": "PL"
+  "pub_key": "BLS_VER_KEY~...",
+  "name": "My Validator",
+  "description": "Description",
+  "company_name": "Acme Inc.",
+  "company_website": "https://acme.com/",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": { "@1x": "https://example.com/icon-14.png", "@2x": "...", "@3x": "..." },
+    "24x24": { "@1x": "https://example.com/icon-24.png", "@2x": "...", "@3x": "..." }
+  }
 }
 
