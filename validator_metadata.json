@@ -1,9 +1,9 @@
 {
-  "pub_key": "BLS_VER_KEY~...",
-  "name": "My Validator",
-  "description": "Description",
-  "company_name": "Acme Inc.",
-  "company_website": "https://acme.com/",
+  "pub_key": "BLS_VER_KEY~DSuSlRRxb14a6GuwzKyeOKaCvO9agFFNS1nEidcsERJ2L1HSzpUuf-8aWBCVEU9TaHR3VBv1Mfb4ZZUlPT_6AyZeyPVpeuakRsGsEqRcirhf9SmPz3f5IlkhJuOFA_QlFzjcu_Oq-iMtcedmWJbKgKeCYxoH9WTIGJkV908ev6q1",
+  "name": "DataVex Validator",
+  "description": "DataVex",
+  "company_name": "DataVex",
+  "company_website": "https://datavex.eu/",
   "client_version": "v1.0.0",
   "icon": {
     "14x14": { "@1x": "https://example.com/icon-14.png", "@2x": "...", "@3x": "..." },
