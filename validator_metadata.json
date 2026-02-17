@@ -1,14 +1,10 @@
-
 {
-  "pub_key": "BLS_VER_KEY~...",
-  "name": "DataVex-node01",
-  "description": "DataVex Validator",
-  "company_name": "DataVex",
-  "company_website": "https://datavex.eu",
-  "client_version": "v1.0.0",
-  "icon": {
-    "14x14": { "@1x": "https://example.com/icon-14.png", "@2x": "...", "@3x": "..." },
-    "24x24": { "@1x": "https://example.com/icon-24.png", "@2x": "...", "@3x": "..." }
-  }
-  
+  "name": "datavex-validator-pl-01",
+  "company_name": "Datavex",
+  "website": "https://datavex.pl",
+  "logo": "https://datavex.eu/static/assets/media/logos/dark-logo.png",
+  "description": "Datavex validator node on Espresso Decaf testnet",
+  "contact": "ops@datavex.pl",
+  "country_code": "PL"
 }
+
