@@ -1,7 +1,10 @@
+
 {
+  "pub_key": "BLS_VER_KEY~...",
   "name": "DataVex-node01",
-  "company": "DataVex",
-  "website": "https://datavex.eu",
-  "description": "High-availability Decaf testnet validator node.",
-  "contact_email": "office@datavex.eu"
+  "description": "DataVex Validator",
+  "company_name": "DataVex",
+  "company_website": "https://datavex.eu",
+  "client_version": "v1.0.0",
+  }
 }
