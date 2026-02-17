@@ -1,9 +1,11 @@
 {
   "pub_key": "BLS_VER_KEY~DSuSlRRxb14a6GuwzKyeOKaCvO9agFFNS1nEidcsERJ2L1HSzpUuf-8aWBCVEU9TaHR3VBv1Mfb4ZZUlPT_6AyZeyPVpeuakRsGsEqRcirhf9SmPz3f5IlkhJuOFA_QlFzjcu_Oq-iMtcedmWJbKgKeCYxoH9WTIGJkV908ev6q1",
   "name": "DataVex Validator",
-  "description": "DataVex",
+  "description": "DataVex staking node running on Decaf testnet",
   "company_name": "DataVex",
   "company_website": "https://datavex.eu/",
+  "logo": "https://datavex.eu/logo.png",
+  "country_code": "PL",
   "client_version": "v1.0.0"
 }
 
