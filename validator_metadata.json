@@ -1,0 +1,7 @@
+{
+  "name": "DataVex-node01",
+  "company": "DataVex",
+  "website": "https://datavex.eu",
+  "description": "High-availability Decaf testnet validator node.",
+  "contact_email": "office@datavex.eu"
+}
